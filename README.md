@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=2E9EF4&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Kirill+%F0%9F%91%8B;Data+Scientist+%2F+ML+Engineer;Full-Stack+Developer;BMSTU+%C2%B7+IU5" alt="Typing animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=2E9EF4&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Kirill+%F0%9F%91%8B;Data+Scientist+%2F+ML+Engineer;Python+%7C+scikit-learn+%7C+LightGBM;BMSTU+%C2%B7+IU5" alt="Typing animation" />
 
 <br/>
 
@@ -11,7 +11,7 @@
 
 ---
 
-Computer Science student at **Bauman Moscow State Technical University**, pursuing a Master's degree. I build end-to-end ML systems — from data exploration and model training to production-ready REST APIs and interactive frontends. Participated in multiple hackathons as both ML engineer and full-stack developer.
+Computer Science student at **Bauman Moscow State Technical University**, pursuing a Master's degree. I build end-to-end ML systems — from data exploration and model training to production-ready REST APIs. Participated in multiple hackathons as ML engineer and data analyst.
 
 ---
 
@@ -53,7 +53,7 @@ Computer Science student at **Bauman Moscow State Technical University**, pursui
 | [🔭 Comet Lab](https://github.com/YurchenkoK/IU5_Hackathon2025) | Predicts a comet's closest Earth approach from astronomical observations using Keplerian orbit fitting | `poliastro` `astropy` `FastAPI` `React` `PostgreSQL` |
 | [🔍 Fraud Detection](https://github.com/YurchenkoK/WB-hackathon) | Real-time transaction fraud detection with a CatBoost classifier and full-stack dashboard | `CatBoost` `FastAPI` `ASP.NET Core` `React` `Docker` |
 | [📊 Income Prediction](https://github.com/YurchenkoK/Hack_and_Change_2025) | Customer income forecasting from ~100 behavioral and financial features (Alfa Bank track) | `LightGBM` `FastAPI` `React` `TypeScript` |
-| [💊 Drug Speed Estimator](https://github.com/YurchenkoK/vasoactive_drug_speed_estimatior) | Full-stack web service for calculating vasoactive drug administration rates | `Django` `Redis` `React` `Swagger` |
+| [💊 Drug Speed Estimator](https://github.com/YurchenkoK/vasoactive_drug_speed_estimatior) | Web service for calculating vasoactive drug administration rates | `Django` `Redis` `React` `Swagger` |
 
 ---
 
@@ -69,13 +69,3 @@ Benchmarked 6 classifiers and 6 regressors on the California Housing dataset. In
 | Gradient Boosting | Regression | 0.800 |
 | Linear Regression | Regression | 0.614 |
 
----
-
-## GitHub Stats
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=YurchenkoK&show_icons=true&hide_border=true&theme=tokyonight&hide=stars&rank_icon=github" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YurchenkoK&layout=compact&hide_border=true&theme=tokyonight&langs_count=7" />
-
-</div>
