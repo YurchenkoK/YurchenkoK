@@ -18,13 +18,6 @@ Computer Science student at **Bauman Moscow State Technical University**, pursui
 
 ---
 
-## Experience
-
-**Junior Data Analyst · [MTS](https://www.mts.ru)**
-`Feb 2026 — present`
-
----
-
 ## Machine Learning & Data Science
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -52,6 +45,13 @@ Computer Science student at **Bauman Moscow State Technical University**, pursui
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+
+---
+
+## Work Experience
+
+**Junior Data Analyst · [MTS](https://www.mts.ru)**
+`Feb 2026 — present`
 
 ---
 
