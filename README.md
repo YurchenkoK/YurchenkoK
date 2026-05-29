@@ -6,12 +6,8 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kirill-yurchenko)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://kaggle.com/yurchenkokirill)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:7kirill7820@gmail.com)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/Qirieshka)
 [![BMSTU](https://img.shields.io/badge/BMSTU-IU5-0055A4?style=flat-square)](https://bmstu.ru)
-
 <br/>
-
 [![](https://img.shields.io/badge/7kirill7820%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:7kirill7820@gmail.com)
 [![](https://img.shields.io/badge/%40Qirieshka-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/Qirieshka)
 
