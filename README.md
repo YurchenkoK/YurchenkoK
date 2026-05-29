@@ -49,7 +49,7 @@ Computer Science student at **Bauman Moscow State Technical University**, pursui
 
 ## Work Experience
 
-[![MTS](https://img.shields.io/badge/MTS-E30611?style=flat-square&logoColor=white)](https://www.mts.ru) **Junior Data Analyst**
+**[MTS](https://www.mts.ru) · Junior Data Analyst**
 `Feb 2026 — present`
 
 ---
