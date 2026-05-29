@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=2E9EF4&center=true&vCenter=true&width=700&lines=Data+Scientist+%2F+ML+Engineer;Python+%7C+scikit-learn+%7C+LightGBM" alt="Typing animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=2E9EF4&center=true&vCenter=true&width=700&lines=Data+Scientist+%2F+ML+Engineer;Python+%7C+scikit-learn+%7C+LightGBM;PySpark+%7C+pandas+%7C+PostgreSQL" alt="Typing animation" />
 
 <br/>
 
@@ -28,6 +28,7 @@ Computer Science student at **Bauman Moscow State Technical University**, pursui
 ![CatBoost](https://img.shields.io/badge/CatBoost-FFCC00?style=flat-square&logoColor=black)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square&logo=python&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
 
 ## Backend & APIs
 
