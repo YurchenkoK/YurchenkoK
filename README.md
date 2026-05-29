@@ -57,4 +57,4 @@ Benchmarked six classification and six regression models on the California Housi
 
 ---
 
-📫 yurchenko.kirill@mail.ru
+📫 7kirill7820@gmail.com
