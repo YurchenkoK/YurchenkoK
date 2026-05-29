@@ -5,6 +5,7 @@
 <br/>
 
 [![Gmail](https://img.shields.io/badge/7kirill7820%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:7kirill7820@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kirill-yurchenko)
 [![BMSTU](https://img.shields.io/badge/BMSTU-IU5-0055A4?style=flat-square)](https://bmstu.ru)
 
 </div>
