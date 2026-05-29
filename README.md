@@ -47,11 +47,10 @@ Computer Science student at **Bauman Moscow State Technical University**, pursui
 
 ---
 
-## Selected Projects
+## Hackathons
 
-| Project | Description | Stack |
-|---|---|---|
-| [Comet Lab](https://github.com/YurchenkoK/IU5_Hackathon2025) | Predicts a comet's closest Earth approach from astronomical observations using Keplerian orbit fitting | `poliastro` `astropy` `FastAPI` `React` `PostgreSQL` |
-| [Fraud Detection](https://github.com/YurchenkoK/WB-hackathon) | Real-time transaction fraud detection with a CatBoost classifier | `CatBoost` `FastAPI` `React` `Docker` |
-| [Income Prediction](https://github.com/YurchenkoK/Hack_and_Change_2025) | Customer income forecasting from ~100 behavioral and financial features (Alfa Bank track) | `LightGBM` `FastAPI` `React` `TypeScript` |
-| [Drug Speed Estimator](https://github.com/YurchenkoK/vasoactive_drug_speed_estimatior) | Web service for calculating vasoactive drug administration rates | `Django` `Redis` `React` `Swagger` |
+| Project | Description | Stack | Place |
+|---|---|---|---|
+| [WB Hackathon](https://github.com/YurchenkoK/WB-hackathon) | Real-time transaction fraud detection with a CatBoost classifier | `CatBoost` `FastAPI` `React` `Docker` | 🥇 1st |
+| [Income Prediction](https://github.com/YurchenkoK/Hack_and_Change_2025) | Customer income forecasting from ~100 behavioral and financial features (Alfa Bank track) | `LightGBM` `FastAPI` `React` `TypeScript` | 🥈 2nd |
+| [Comet Lab](https://github.com/YurchenkoK/IU5_Hackathon2025) | Predicts a comet's closest Earth approach from astronomical observations using Keplerian orbit fitting | `poliastro` `astropy` `FastAPI` `React` `PostgreSQL` | 4th |
