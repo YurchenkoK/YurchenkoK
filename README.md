@@ -4,6 +4,8 @@
 
 <br/>
 
+[![Gmail](https://img.shields.io/badge/-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:7kirill7820@gmail.com)
+[![Telegram](https://img.shields.io/badge/-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/Qirieshka)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kirill-yurchenko)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://kaggle.com/yurchenkokirill)
 [![BMSTU](https://img.shields.io/badge/BMSTU-IU5-0055A4?style=flat-square)](https://bmstu.ru)
