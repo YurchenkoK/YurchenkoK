@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=2E9EF4&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Kirill+%F0%9F%91%8B;Data+Scientist+%2F+ML+Engineer;Python+%7C+scikit-learn+%7C+LightGBM;BMSTU+%C2%B7+IU5" alt="Typing animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=2E9EF4&center=true&vCenter=true&width=700&lines=Data+Scientist+%2F+ML+Engineer;Python+%7C+scikit-learn+%7C+LightGBM" alt="Typing animation" />
 
 <br/>
 
