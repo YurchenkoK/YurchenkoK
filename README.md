@@ -4,7 +4,6 @@
 
 <br/>
 
-[![Gmail](https://img.shields.io/badge/7kirill7820%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:7kirill7820@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kirill-yurchenko)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://kaggle.com/yurchenkokirill)
 [![BMSTU](https://img.shields.io/badge/BMSTU-IU5-0055A4?style=flat-square)](https://bmstu.ru)
@@ -51,6 +50,6 @@ Computer Science student at **Bauman Moscow State Technical University**, pursui
 
 | Project | Description | Stack | Place |
 |---|---|---|---|
-| [WB Hackathon](https://github.com/YurchenkoK/WB-hackathon) | Real-time transaction fraud detection with a CatBoost classifier | `CatBoost` `FastAPI` `React` `Docker` | 🥇 |
-| [Income Prediction](https://github.com/YurchenkoK/Hack_and_Change_2025) | Customer income forecasting from 273 behavioral and financial features (Alfa Bank track) | `LightGBM` `FastAPI` `React` `TypeScript` | 🥈 |
+| [WB Hackathon](https://github.com/YurchenkoK/WB-hackathon) | Real-time transaction fraud detection with a CatBoost classifier | `CatBoost` `FastAPI` `React` `Docker` |  🥇  |
+| [Income Prediction](https://github.com/YurchenkoK/Hack_and_Change_2025) | Customer income forecasting from 273 behavioral and financial features (Alfa Bank track) | `LightGBM` `FastAPI` `React` `TypeScript` |  🥈  |
 | [Comet Lab](https://github.com/YurchenkoK/IU5_Hackathon2025) | Predicts a comet's closest Earth approach from astronomical observations using Keplerian orbit fitting | `poliastro` `astropy` `FastAPI` `React` `PostgreSQL` | 4th |
