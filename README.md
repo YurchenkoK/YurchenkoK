@@ -4,10 +4,10 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kirill-yurchenko)
-[![Kaggle](https://img.shields.io/badge/-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://kaggle.com/yurchenkokirill)
-[![Gmail](https://img.shields.io/badge/-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:7kirill7820@gmail.com)
-[![Telegram](https://img.shields.io/badge/-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/Qirieshka)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kirill-yurchenko)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://kaggle.com/yurchenkokirill)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:7kirill7820@gmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/Qirieshka)
 
 </div>
 
@@ -66,9 +66,9 @@ Computer Science student at **Bauman Moscow State Technical University**, pursui
 
 ## Contact
 
-| | |
-|---|---|
-| 📧 Email | [7kirill7820@gmail.com](mailto:7kirill7820@gmail.com) |
-| 💬 Telegram | [@Qirieshka](https://t.me/Qirieshka) |
-| 💼 LinkedIn | [kirill-yurchenko](https://www.linkedin.com/in/kirill-yurchenko) |
-| 📊 Kaggle | [yurchenkokirill](https://kaggle.com/yurchenkokirill) |
+| Platform | | ID |
+|---|---|---|
+| [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kirill-yurchenko) | LinkedIn | [kirill-yurchenko](https://www.linkedin.com/in/kirill-yurchenko) |
+| [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://kaggle.com/yurchenkokirill) | Kaggle | [yurchenkokirill](https://kaggle.com/yurchenkokirill) |
+| [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:7kirill7820@gmail.com) | Gmail | [7kirill7820@gmail.com](mailto:7kirill7820@gmail.com) |
+| [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/Qirieshka) | Telegram | [@Qirieshka](https://t.me/Qirieshka) |
