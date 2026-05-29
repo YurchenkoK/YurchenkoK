@@ -23,7 +23,7 @@ jobs:
           start = date(2026, 2, 1)
           today = date.today()
 
-          total_months = (today.year - start.year) * 12 + (today.month - start.month)
+          total_months = (today.year - start.year) * 12 + (today.month - start.month) + 1
           years = total_months // 12
           months = total_months % 12
 
