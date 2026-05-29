@@ -33,18 +33,18 @@ Computer Science student at **Bauman Moscow State Technical University**, pursui
 
 ## Backend & APIs
 
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 ## Other
 
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 
 ---
 
@@ -52,6 +52,6 @@ Computer Science student at **Bauman Moscow State Technical University**, pursui
 
 | Project | Description | Stack | Place |
 |---|---|---|---|
-| [WB Hackathon](https://github.com/YurchenkoK/WB-hackathon) | Real-time transaction fraud detection with a CatBoost classifier | `CatBoost` `FastAPI` `React` `Docker` |  🥇  |
-| [Income Prediction](https://github.com/YurchenkoK/Hack_and_Change_2025) | Customer income forecasting from 273 behavioral and financial features (Alfa Bank track) | `LightGBM` `FastAPI` `React` `TypeScript` |  🥈  |
+| [WB Hackathon](https://github.com/YurchenkoK/WB-hackathon) | Real-time transaction fraud detection with a CatBoost classifier | `CatBoost` `FastAPI` `React` `Docker` | 🥇 |
+| [Income Prediction](https://github.com/YurchenkoK/Hack_and_Change_2025) | Customer income forecasting from 273 behavioral and financial features (Alfa Bank track) | `LightGBM` `FastAPI` `React` `TypeScript` | 🥈 |
 | [Comet Lab](https://github.com/YurchenkoK/IU5_Hackathon2025) | Predicts a comet's closest Earth approach from astronomical observations using Keplerian orbit fitting | `poliastro` `astropy` `FastAPI` `React` `PostgreSQL` | 4th |
