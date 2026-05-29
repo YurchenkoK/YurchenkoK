@@ -31,18 +31,16 @@ Computer Science student at **Bauman Moscow State Technical University**, pursui
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-## Frontend & Other
+## Other
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
 
 ---
 
@@ -50,22 +48,7 @@ Computer Science student at **Bauman Moscow State Technical University**, pursui
 
 | Project | Description | Stack |
 |---|---|---|
-| [🔭 Comet Lab](https://github.com/YurchenkoK/IU5_Hackathon2025) | Predicts a comet's closest Earth approach from astronomical observations using Keplerian orbit fitting | `poliastro` `astropy` `FastAPI` `React` `PostgreSQL` |
-| [🔍 Fraud Detection](https://github.com/YurchenkoK/WB-hackathon) | Real-time transaction fraud detection with a CatBoost classifier and full-stack dashboard | `CatBoost` `FastAPI` `ASP.NET Core` `React` `Docker` |
-| [📊 Income Prediction](https://github.com/YurchenkoK/Hack_and_Change_2025) | Customer income forecasting from ~100 behavioral and financial features (Alfa Bank track) | `LightGBM` `FastAPI` `React` `TypeScript` |
-| [💊 Drug Speed Estimator](https://github.com/YurchenkoK/vasoactive_drug_speed_estimatior) | Web service for calculating vasoactive drug administration rates | `Django` `Redis` `React` `Swagger` |
-
----
-
-## Research
-
-**[California Housing — ML Comparative Study](https://github.com/YurchenkoK/TMO_NIRS)**
-
-Benchmarked 6 classifiers and 6 regressors on the California Housing dataset. Includes full EDA, feature scaling, and GridSearchCV tuning with 5-fold cross-validation.
-
-| Model | Task | R² |
-|---|---|---|
-| Random Forest | Regression | **0.817** |
-| Gradient Boosting | Regression | 0.800 |
-| Linear Regression | Regression | 0.614 |
-
+| [Comet Lab](https://github.com/YurchenkoK/IU5_Hackathon2025) | Predicts a comet's closest Earth approach from astronomical observations using Keplerian orbit fitting | `poliastro` `astropy` `FastAPI` `React` `PostgreSQL` |
+| [Fraud Detection](https://github.com/YurchenkoK/WB-hackathon) | Real-time transaction fraud detection with a CatBoost classifier | `CatBoost` `FastAPI` `React` `Docker` |
+| [Income Prediction](https://github.com/YurchenkoK/Hack_and_Change_2025) | Customer income forecasting from ~100 behavioral and financial features (Alfa Bank track) | `LightGBM` `FastAPI` `React` `TypeScript` |
+| [Drug Speed Estimator](https://github.com/YurchenkoK/vasoactive_drug_speed_estimatior) | Web service for calculating vasoactive drug administration rates | `Django` `Redis` `React` `Swagger` |
