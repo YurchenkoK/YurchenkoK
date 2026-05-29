@@ -38,7 +38,7 @@ jobs:
               content = f.read()
 
           content = re.sub(
-              r"\*\*Junior Data Analyst · \[MTS\]\(https://www\.mts\.ru\) · Feb 2026 — present\*\*.*<!-- EXPERIENCE_DURATION -->",
+              r"\*\*Junior Data Analyst · \[MTS\]\(https://www\.mts\.ru\) · Feb 2026 — present.*<!-- EXPERIENCE_DURATION -->",
               f"**Junior Data Analyst · [MTS](https://www.mts.ru) · Feb 2026 — present · _{duration}_** <!-- EXPERIENCE_DURATION -->",
               content
           )
