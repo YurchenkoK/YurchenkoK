@@ -1,60 +1,81 @@
-# Kirill Yurchenko
+<div align="center">
 
-Computer Science student at Bauman Moscow State Technical University (group IU5), pursuing a Master's degree. I work across the full stack — from ML model training to backend APIs and frontend interfaces — and have shipped several projects in team hackathons.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=2E9EF4&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Kirill+%F0%9F%91%8B;Data+Scientist+%2F+ML+Engineer;Full-Stack+Developer;BMSTU+%C2%B7+IU5" alt="Typing animation" />
 
-## Tech Stack
+<br/>
 
-**Languages**
-Python · TypeScript · JavaScript · C++ · C# · Kotlin · SQL
+[![Gmail](https://img.shields.io/badge/7kirill7820%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:7kirill7820@gmail.com)
+[![BMSTU](https://img.shields.io/badge/BMSTU-IU5-0055A4?style=flat-square)](https://bmstu.ru)
 
-**Machine Learning**
-scikit-learn · LightGBM · CatBoost · pandas · numpy · poliastro · astropy
+</div>
 
-**Backend**
-FastAPI · Django REST Framework · ASP.NET Core · Redis
+---
 
-**Frontend**
-React · Vite · styled-components
+Computer Science student at **Bauman Moscow State Technical University**, pursuing a Master's degree. I build end-to-end ML systems — from data exploration and model training to production-ready REST APIs and interactive frontends. Participated in multiple hackathons as both ML engineer and full-stack developer.
 
-**Infrastructure**
-PostgreSQL · Docker · Docker Compose
+---
 
-**Mobile / Desktop**
-Android (Kotlin) · GTK 3 (C++)
+## Machine Learning & Data Science
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![LightGBM](https://img.shields.io/badge/LightGBM-02569B?style=flat-square&logoColor=white)
+![CatBoost](https://img.shields.io/badge/CatBoost-FFCC00?style=flat-square&logoColor=black)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square&logo=python&logoColor=white)
+
+## Backend & APIs
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+## Frontend & Other
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
 
 ---
 
 ## Selected Projects
 
-### [Comet Lab](https://github.com/YurchenkoK/IU5_Hackathon2025) — IU5 Hackathon 2025
-Computes a comet's orbital parameters and closest Earth approach from amateur observations.
-Keplerian orbit fitting via poliastro/astropy · FastAPI · React · PostgreSQL · Docker
-
-### [Fraud Detection System](https://github.com/YurchenkoK/WB-hackathon) — Wildberries Hackathon 2025
-Identifies fraudulent transactions using a CatBoost classifier with a full-stack interface.
-CatBoost · Python FastAPI · C# ASP.NET Core · React · PostgreSQL · Docker
-
-### [Income Prediction](https://github.com/YurchenkoK/Hack_and_Change_2025) — Hack&Change 2025 (Alfa Bank track)
-Predicts individual customer income from ~100 behavioral and financial features.
-LightGBM · FastAPI · React + TypeScript · framer-motion
-
-### [Vasoactive Drug Speed Estimator](https://github.com/YurchenkoK/vasoactive_drug_speed_estimatior)
-Full-stack course project: Django REST backend, async version with Redis, and React frontend.
-Django · Redis · React · Swagger · Docker
+| Project | Description | Stack |
+|---|---|---|
+| [🔭 Comet Lab](https://github.com/YurchenkoK/IU5_Hackathon2025) | Predicts a comet's closest Earth approach from astronomical observations using Keplerian orbit fitting | `poliastro` `astropy` `FastAPI` `React` `PostgreSQL` |
+| [🔍 Fraud Detection](https://github.com/YurchenkoK/WB-hackathon) | Real-time transaction fraud detection with a CatBoost classifier and full-stack dashboard | `CatBoost` `FastAPI` `ASP.NET Core` `React` `Docker` |
+| [📊 Income Prediction](https://github.com/YurchenkoK/Hack_and_Change_2025) | Customer income forecasting from ~100 behavioral and financial features (Alfa Bank track) | `LightGBM` `FastAPI` `React` `TypeScript` |
+| [💊 Drug Speed Estimator](https://github.com/YurchenkoK/vasoactive_drug_speed_estimatior) | Full-stack web service for calculating vasoactive drug administration rates | `Django` `Redis` `React` `Swagger` |
 
 ---
 
 ## Research
 
 **[California Housing — ML Comparative Study](https://github.com/YurchenkoK/TMO_NIRS)**
-Benchmarked six classification and six regression models on the California Housing dataset with full EDA, GridSearchCV tuning, and performance analysis. Best regression R² = 0.817 (Random Forest).
+
+Benchmarked 6 classifiers and 6 regressors on the California Housing dataset. Includes full EDA, feature scaling, and GridSearchCV tuning with 5-fold cross-validation.
+
+| Model | Task | R² |
+|---|---|---|
+| Random Forest | Regression | **0.817** |
+| Gradient Boosting | Regression | 0.800 |
+| Linear Regression | Regression | 0.614 |
 
 ---
 
-## Stats
+## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YurchenkoK&show_icons=true&hide_border=true&theme=default&hide=stars)
+<div align="center">
 
----
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=YurchenkoK&show_icons=true&hide_border=true&theme=tokyonight&hide=stars&rank_icon=github" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YurchenkoK&layout=compact&hide_border=true&theme=tokyonight&langs_count=7" />
 
-📫 7kirill7820@gmail.com
+</div>
