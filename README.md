@@ -53,12 +53,12 @@ Computer Science student at **Bauman Moscow State Technical University**, pursui
 
 ---
 
-## Hackathons
+## Hackathons & Competitions
 
 | Project | Description | Stack | Place |
 |---|---|---|---|
-| [WB Hackathon](https://github.com/YurchenkoK/WB-hackathon) | Real-time transaction fraud detection with a CatBoost classifier | `CatBoost` `FastAPI` `React` `Docker` | 🥇 |
-| [Income Prediction](https://github.com/YurchenkoK/Hack_and_Change_2025) | Customer income forecasting from 273 behavioral and financial features (Alfa Bank track) | `LightGBM` `FastAPI` `React` `TypeScript` | 🥈 |
+| [WB Hackathon](https://github.com/YurchenkoK/WB-hackathon) | Real-time transaction fraud detection with a CatBoost classifier | `CatBoost` `FastAPI` `React` `Docker` | 1st |
+| [Income Prediction](https://github.com/YurchenkoK/Hack_and_Change_2025) | Customer income forecasting from 273 behavioral and financial features (Alfa Bank track) | `LightGBM` `FastAPI` `React` `TypeScript` | 2nd |
 | [Comet Lab](https://github.com/YurchenkoK/IU5_Hackathon2025) | Predicts a comet's closest Earth approach from astronomical observations using Keplerian orbit fitting | `poliastro` `astropy` `FastAPI` `React` `PostgreSQL` | 4th |
 
 ---
