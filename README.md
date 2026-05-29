@@ -49,8 +49,7 @@ Computer Science student at **Bauman Moscow State Technical University**, pursui
 
 ## Work Experience
 
-**[MTS](https://www.mts.ru) · Junior Data Analyst**
-`Feb 2026 — present`
+**Junior Data Analyst · [MTS](https://www.mts.ru) · Feb 2026 — present**
 
 ---
 
