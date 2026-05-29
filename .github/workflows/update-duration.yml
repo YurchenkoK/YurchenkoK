@@ -1,0 +1,58 @@
+name: Update Work Experience Duration
+
+on:
+  schedule:
+    - cron: '0 0 1 * *'  # 1st of every month at midnight UTC
+  workflow_dispatch:      # manual trigger
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Calculate duration and update README
+        run: |
+          python3 << 'EOF'
+          import re
+          from datetime import date
+
+          start = date(2026, 2, 1)
+          today = date.today()
+
+          total_months = (today.year - start.year) * 12 + (today.month - start.month)
+          years = total_months // 12
+          months = total_months % 12
+
+          if years > 0 and months > 0:
+              duration = f"{years} yr {months} mo"
+          elif years > 0:
+              duration = f"{years} yr"
+          else:
+              duration = f"{months} mo"
+
+          with open("README.md", "r", encoding="utf-8") as f:
+              content = f.read()
+
+          content = re.sub(
+              r"\*\*Junior Data Analyst · \[MTS\]\(https://www\.mts\.ru\) · Feb 2026 — present\*\*.*<!-- EXPERIENCE_DURATION -->",
+              f"**Junior Data Analyst · [MTS](https://www.mts.ru) · Feb 2026 — present · _{duration}_** <!-- EXPERIENCE_DURATION -->",
+              content
+          )
+
+          with open("README.md", "w", encoding="utf-8") as f:
+              f.write(content)
+
+          print(f"Duration updated: {duration}")
+          EOF
+
+      - name: Commit if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git diff --staged --quiet || git commit -m "auto: update MTS experience duration"
+          git push
